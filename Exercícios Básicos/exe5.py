@@ -1,3 +1,5 @@
+#Input e exibição dinâmica
+
 tempo = float(input("Digite o tempo de duração da viagem em horas: "))
 v_media = float(input("Digite a velocidade media durante o percurso em quilometros: "))
 

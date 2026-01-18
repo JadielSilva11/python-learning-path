@@ -1,3 +1,5 @@
+#Tratamento de exceções
+
 try:
     lista = []
     for i in range(2):

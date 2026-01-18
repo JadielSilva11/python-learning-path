@@ -1,3 +1,5 @@
+#Input e print dinâmico
+
 dia = input('Você nasceu em que dia? ')
 mes = input('De que mês? ')
 ano = input('Em qual ano? ')

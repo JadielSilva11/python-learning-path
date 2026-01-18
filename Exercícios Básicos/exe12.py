@@ -1,3 +1,5 @@
+#Funções
+
 def ler_temperatura():
     tempC = int(input("Digite a temperatura em Celsius: "))
     return tempC

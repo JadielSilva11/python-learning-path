@@ -1,3 +1,5 @@
+#Funções
+
 def receber_valores():
     tempo = float(input("Digite o tempo de duração da viagem: "))
     v_media = float(input("Digite a velocidade media na viagem: "))

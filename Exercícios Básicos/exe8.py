@@ -1,3 +1,5 @@
+#Repetições (for)
+
 soma = 0 
 i = 1
 

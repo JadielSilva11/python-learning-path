@@ -1,3 +1,5 @@
+#Condicionais
+
 n1 = float(input("Digite a nota 1: "))
 n2 = int(input("Digite a nota 2: "))
 n3 = int(input("Digite a nota 3: "))

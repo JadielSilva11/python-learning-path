@@ -1,3 +1,5 @@
+#Repetições (for)
+
 print("Tabuada do 3:\n")
 tab = 3
 
