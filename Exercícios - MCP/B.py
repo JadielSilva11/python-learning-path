@@ -1,0 +1,2 @@
+sA = input('')
+sP = input('')
